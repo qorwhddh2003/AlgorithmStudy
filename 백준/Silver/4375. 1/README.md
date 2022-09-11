@@ -1,4 +1,4 @@
-# [Silver III] 1 - 4375 
+# [Silver IV] 1 - 4375 
 
 [문제 링크](https://www.acmicpc.net/problem/4375) 
 
